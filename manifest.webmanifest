@@ -1,0 +1,16 @@
+{
+  "id": "./",
+  "name": "變美旅途｜成為自己的光",
+  "short_name": "變美旅途",
+  "description": "變美養成、人生能力、浪漫劇情的自我成長 App",
+  "lang": "zh-TW",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fbf3f5",
+  "theme_color": "#f9edf0",
+  "icons": [
+    {"src":"./assets/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"./assets/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
